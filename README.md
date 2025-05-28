@@ -1,4 +1,4 @@
-# 🚗📦 PROJETO POWER BI - IMPORTAÇÃO & EXPORTAÇÃO DE VEÍCULOS
+# 🚗 PROJETO POWER BI - IMPORTAÇÃO & EXPORTAÇÃO DE VEÍCULOS
 
 Repositório de estudos dedicado ao desenvolvimento de um dashboard analítico no Power BI, visando usar Inteligencia Artificial para a criação do banco de dados e design do mesmo. Com foco na gestão de dados de importação e exportação de veículos.
 
@@ -42,13 +42,13 @@ O projeto tem como objetivo central a criação de um painel interativo que perm
 
 ## 🖥️ Acesse o Dashboard Online
 
-> 🔗 [Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmJiZTZhNGMtM2Q3OS00M2M3LWIzOWEtOTliMThjMTEzODI0IiwidCI6ImM1ZDg3ZWU5LTBkZTgtNGI3OC04YTViLTBhZWVmZmFiMGNjZCJ9&pageName=6c05ce23a480e83e7780)
+🔗 [Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmJiZTZhNGMtM2Q3OS00M2M3LWIzOWEtOTliMThjMTEzODI0IiwidCI6ImM1ZDg3ZWU5LTBkZTgtNGI3OC04YTViLTBhZWVmZmFiMGNjZCJ9&pageName=6c05ce23a480e83e7780)
 
 ---
 
 ## 💾 Sobre os Dados
 
-> ⚠️ **Atenção:** Os dados utilizados são fictícios, gerados exclusivamente para fins educacionais e demonstração de recursos analíticos no Power BI.
+⚠️ **Atenção:** Os dados utilizados são fictícios, gerados exclusivamente para fins educacionais e demonstração de recursos analíticos no Power BI.
 
 ---
 
