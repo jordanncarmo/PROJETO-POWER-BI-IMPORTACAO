@@ -36,7 +36,7 @@ O projeto tem como objetivo central a criação de um painel interativo que perm
 
 ![Tela 3](ASSETS/TELA3.png)
 
-![Tela 4](assets/TELA4.png)
+![Tela 4](ASSETS/TELA4.png)
 
 ---
 
